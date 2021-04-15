@@ -3,8 +3,8 @@ Guia básico da linguagem de marcação Markdown.
 
 
 ## Titulo
-# <h1>
-### <h3>
+# Equivalente ao h1 do HTML
+### Equivalente ao h3 do HTML
 
 ## Formatação de texto
 *texto italico*
